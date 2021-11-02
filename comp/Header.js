@@ -9,7 +9,7 @@ function Header() {
                 <Headeritem title='HOME' Icon={HomeIcon}/>
                 <Headeritem title='TRENDING' Icon={LightningBoltIcon}/>
                 <Headeritem title='VERIFIED' Icon={BadgeCheckIcon}/>
-                <Headeritem title='COLLECTIONnpm run dev' Icon={CollectionIcon}/>
+                <Headeritem title='COLLECTION' Icon={CollectionIcon}/>
                 <Headeritem title='SEARCH' Icon={SearchIcon}/>
                 <Headeritem title='ACC' Icon={UserIcon}/>
             </div>
